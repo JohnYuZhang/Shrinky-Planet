@@ -1,5 +1,5 @@
 # Shrinky-Planet
-Shrinky Planet Design Document
+Download ShrinkyPlanetEXE and run the exe in the folder to play
 
 ## Introduction
 The goal of Shrinky Planet was to create a mobile game targeted at casual audiences. There
